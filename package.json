@@ -1,0 +1,39 @@
+{
+  "name": "miapp-panel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@alfsnd/vue-bootstrap-select": "^0.4.4",
+    "@fullcalendar/core": "^4.3.1",
+    "@fullcalendar/daygrid": "^4.3.0",
+    "@fullcalendar/interaction": "^4.3.0",
+    "@fullcalendar/list": "^4.3.0",
+    "@fullcalendar/timegrid": "^4.3.0",
+    "@fullcalendar/vue": "^4.3.1",
+    "animate.css": "^3.7.2",
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.1",
+    "core-js": "^2.6.5",
+    "html-webpack-plugin": "^3.2.0",
+    "parse": "^2.7.1",
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.3",
+    "vue-stripe-checkout": "^3.0.0-beta.11",
+    "vue-stripe-elements-plus": "^0.3.0",
+    "vue-sweetalert2": "^2.1.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.6.0",
+    "@vue/cli-plugin-eslint": "^3.6.0",
+    "@vue/cli-service": "^3.6.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.5.21"
+  }
+}
